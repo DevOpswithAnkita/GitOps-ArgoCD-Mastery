@@ -1,0 +1,23 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets
+*.key
+*.pem
+secrets.yaml
+.env
+
+# Kubernetes
+kubeconfig
+*.kubeconfig
+
+# Logs
+*.log

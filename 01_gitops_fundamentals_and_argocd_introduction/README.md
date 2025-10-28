@@ -1,0 +1,1 @@
+# 01_gitops_fundamentals_and_argocd_introduction
